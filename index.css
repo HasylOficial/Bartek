@@ -1,0 +1,13 @@
+body,html{
+    background-color: gray;
+    overflow: hidden;
+}
+
+section{
+    width:100vw;
+    height: 100vh;
+    margin-top: 30vh;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 5vh;
+}
